@@ -18,19 +18,19 @@ A desktop application built with **Java Swing** to track personal income and exp
 ![Main Interface](screenshots/main-interface-empty.png)
 
 **Adding an expense**
-![Adding an Expense](screenshots/add-expense.png)
+![Adding an Expense](screenshots/add-expense-groceries.png)
 
 **Adding income and viewing updated balance**
-![Income and Balance Update](screenshots/income-balance-update.png)
+![Income and Balance Update](screenshots/income-expense-balance.png)
 
 **Input validation — missing fields**
-![Missing Information Validation](screenshots/validation-missing-info.png)
+![Missing Information Validation](screenshots/validation-missing-fields.png)
 
 **Input validation — no row selected for deletion**
-![No Selection Validation](screenshots/validation-no-selection.png)
+![No Selection Validation](screenshots/validation-no-row-selected.png)
 
 **Transaction table view**
-![Transaction Table](screenshots/transaction-table.png)
+![Transaction Table](screenshots/add-income-allowance.png)
 
 **Input validation — invalid amount**
 ![Invalid Amount Validation](screenshots/validation-invalid-amount.png)
