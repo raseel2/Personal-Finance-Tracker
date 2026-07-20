@@ -15,7 +15,7 @@ A desktop application built with **Java Swing** to track personal income and exp
 ## Screenshots
 
 **Main interface**
-![Main Interface](screenshots/main-interface.png)
+![Main Interface](screenshots/main-interface-empty.png)
 
 **Adding an expense**
 ![Adding an Expense](screenshots/add-expense.png)
